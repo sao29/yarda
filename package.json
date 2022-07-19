@@ -1,6 +1,7 @@
 {
   "name": "comercio",
   "version": "0.0.1",
+  "homepage": "https://sao29.github.io/yarda",
   "description": "react shop",
   "main": "src/index.js",
   "scripts": {
